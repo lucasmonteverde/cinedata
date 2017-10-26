@@ -1,0 +1,20 @@
+{
+  "name": "cinedata-core",
+  "version": "0.0.1",
+  "author": "Lucas Monteverde",
+  "private": true,
+  "engines": {
+    "node": "~8.x.x"
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "debug": "^3.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "mongoose": "^4.12.4"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "nock": "^9.0.25"
+  }
+}
